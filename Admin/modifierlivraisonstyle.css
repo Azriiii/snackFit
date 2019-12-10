@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.put:focus {
+  border: 3px solid #ffc0cb;
+}
+ 
+form{
+	background-color: #222d32;
+	background-size: 20px 20px;
+	
+}
+h2{
+	Comic Sans MS, Comic ;
+	font-weight: 600;
+}
